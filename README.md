@@ -20,15 +20,15 @@ there is only one loop after refactoring. The result screenshots are below:
 
 - Runtime of original code (two loops)
 
-![original 2017](resources/original 2017.png)
-![original 2018](resources/original 2018.png)
+![original 2017](resources/original_2017.png)
+![original 2018](resources/original_2018.png)
 
 - Runtime of modified code (one loop)
 
 ![runtime](resources/VBA_Challenge_2017.png)
 ![runtime](resources/VBA_Challenge_2018.png)
 
-After changing the code to one loop, the runtime get less
+After changing the code to one loop, the runtime get less.
 
 ## Summary
 
