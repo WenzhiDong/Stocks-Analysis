@@ -25,8 +25,8 @@ there is only one loop after refactoring. The result screenshots are below:
 
 - Runtime of modified code (one loop)
 
-![runtime](resources/VBA_Challenge_2017.png)
-![runtime](resources/VBA_Challenge_2018.png)
+![runtime 2017](resources/VBA_Challenge_2017.png)
+![runtime 2018](resources/VBA_Challenge_2018.png)
 
 After changing the code to one loop, the runtime get less.
 
