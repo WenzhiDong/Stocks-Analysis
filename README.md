@@ -1,4 +1,4 @@
-# Challege 2
+# Stocks Analysis
 
 ## Overview of Project
 
